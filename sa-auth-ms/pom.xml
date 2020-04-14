@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>sa</groupId>
-    <artifactId>gatherme-activities-ms</artifactId>
+    <artifactId>sa-auth-ms</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <properties>
@@ -32,7 +32,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>gatherme-activities-ms</finalName>
+        <finalName>sa-auth-ms</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
